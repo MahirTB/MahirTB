@@ -40,8 +40,8 @@ I turn complex, unstructured data into clean statistical models, reliable report
 ## ⚡ GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=f8f5df&title_color=2e4a3d&text_color=3d3d3d&icon_color=6b8e78" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=f8f5df&title_color=2e4a3d&text_color=3d3d3d&icon_color=6b8e78" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahirTB&show_icons=true&hide_border=true&bg_color=f8f5df&title_color=2e4a3d&text_color=3d3d3d&icon_color=6b8e78" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirTB&layout=compact&hide_border=true&bg_color=f8f5df&title_color=2e4a3d&text_color=3d3d3d&icon_color=6b8e78" alt="Top Languages" height="180"/>
 </div>
 
 ---
