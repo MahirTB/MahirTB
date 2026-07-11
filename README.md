@@ -15,8 +15,11 @@
 
 <div align="center">
 
-<img src="./at-a-glance.svg" alt="At a glance" width="100%"/>
-
+![](https://img.shields.io/badge/Experience-3%2B_Years-2E4A3D?style=flat&labelColor=14211b&color=8fd14f)
+![](https://img.shields.io/badge/Focus-Analytics_Engineering-2E4A3D?style=flat&labelColor=14211b&color=8fd14f)
+![](https://img.shields.io/badge/Speciality-Dimensional_Modeling-2E4A3D?style=flat&labelColor=14211b&color=8fd14f)
+![](https://img.shields.io/badge/Reporting-Executive_Dashboards-2E4A3D?style=flat&labelColor=14211b&color=8fd14f)
+ 
 </div>
 
 <br>
