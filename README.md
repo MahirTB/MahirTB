@@ -15,10 +15,7 @@
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/Experience-3%2B_Years-2E4A3D?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Analytics_Engineering-6B8E78?style=flat-square)
-![Speciality](https://img.shields.io/badge/Speciality-Dimensional_Modeling-2E4A3D?style=flat-square)
-![Reporting](https://img.shields.io/badge/Reporting-Executive_Dashboards-6B8E78?style=flat-square)
+<img src="./at-a-glance.svg" alt="At a glance" width="100%"/>
 
 </div>
 
