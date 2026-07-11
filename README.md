@@ -40,12 +40,13 @@ I turn complex, unstructured data into clean statistical models, reliable report
 ## ⚡ GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahirTB&show_icons=true&hide_border=true&bg_color=f8f5df&title_color=2e4a3d&text_color=3d3d3d&icon_color=6b8e78" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirTB&layout=compact&hide_border=true&bg_color=f8f5df&title_color=2e4a3d&text_color=3d3d3d&icon_color=6b8e78" alt="Top Languages" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=MahirTB&theme=matcha&hide_border=true&background=f8f5df&ring=2e4a3d&fire=2e4a3d&currStreakLabel=6b8e78" alt="GitHub Streak" height="195"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahirTB&bg_color=f8f5df&color=2e4a3d&line=6b8e78&point=2e4a3d&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
-
-<div align="center">
-  <p><i>"The goal is to turn data into information, and information into insight."</i> — Carly Fiorina</p>
-</div>
