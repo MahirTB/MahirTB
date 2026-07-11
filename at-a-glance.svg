@@ -1,0 +1,63 @@
+<svg viewBox="0 0 940 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b2e26"/>
+      <stop offset="100%" stop-color="#14211b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Experience -->
+  <g>
+    <rect x="0" y="0" width="215" height="150" rx="14" fill="url(#cardGrad)" stroke="#2E4A3D" stroke-width="1.5"/>
+    <rect x="0" y="0" width="6" height="150" rx="3" fill="#8FD14F"/>
+    <g transform="translate(28,32)" stroke="#8FD14F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"/>
+      <path d="M12 6 V12 L17 15"/>
+    </g>
+    <text x="28" y="82" fill="#8FD14F" font-family="Arial, sans-serif" font-size="26" font-weight="700">3+ Years</text>
+    <text x="28" y="106" fill="#9aa89f" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.5">EXPERIENCE</text>
+  </g>
+
+  <!-- Card 2: Focus -->
+  <g transform="translate(241,0)">
+    <rect x="0" y="0" width="215" height="150" rx="14" fill="url(#cardGrad)" stroke="#2E4A3D" stroke-width="1.5"/>
+    <rect x="0" y="0" width="6" height="150" rx="3" fill="#8FD14F"/>
+    <g transform="translate(28,28)" stroke="#8FD14F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"/>
+      <circle cx="12" cy="12" r="5.5"/>
+      <circle cx="12" cy="12" r="1.2" fill="#8FD14F"/>
+    </g>
+    <text x="28" y="78" fill="#8FD14F" font-family="Arial, sans-serif" font-size="19" font-weight="700">Analytics</text>
+    <text x="28" y="99" fill="#8FD14F" font-family="Arial, sans-serif" font-size="19" font-weight="700">Engineering</text>
+    <text x="28" y="122" fill="#9aa89f" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.5">FOCUS</text>
+  </g>
+
+  <!-- Card 3: Speciality -->
+  <g transform="translate(482,0)">
+    <rect x="0" y="0" width="215" height="150" rx="14" fill="url(#cardGrad)" stroke="#2E4A3D" stroke-width="1.5"/>
+    <rect x="0" y="0" width="6" height="150" rx="3" fill="#8FD14F"/>
+    <g transform="translate(28,30)" stroke="#8FD14F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 2 L22 8 L12 14 L2 8 Z"/>
+      <path d="M2 14 L12 20 L22 14"/>
+    </g>
+    <text x="28" y="78" fill="#8FD14F" font-family="Arial, sans-serif" font-size="19" font-weight="700">Dimensional</text>
+    <text x="28" y="99" fill="#8FD14F" font-family="Arial, sans-serif" font-size="19" font-weight="700">Modeling</text>
+    <text x="28" y="122" fill="#9aa89f" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.5">SPECIALITY</text>
+  </g>
+
+  <!-- Card 4: Reporting -->
+  <g transform="translate(723,0)">
+    <rect x="0" y="0" width="215" height="150" rx="14" fill="url(#cardGrad)" stroke="#2E4A3D" stroke-width="1.5"/>
+    <rect x="0" y="0" width="6" height="150" rx="3" fill="#8FD14F"/>
+    <g transform="translate(28,30)" stroke="#8FD14F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M2 20 V2"/>
+      <path d="M2 20 H22"/>
+      <path d="M7 20 V13"/>
+      <path d="M13 20 V8"/>
+      <path d="M19 20 V4"/>
+    </g>
+    <text x="28" y="78" fill="#8FD14F" font-family="Arial, sans-serif" font-size="19" font-weight="700">Executive</text>
+    <text x="28" y="99" fill="#8FD14F" font-family="Arial, sans-serif" font-size="19" font-weight="700">Dashboards</text>
+    <text x="28" y="122" fill="#9aa89f" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.5">REPORTING</text>
+  </g>
+</svg>
